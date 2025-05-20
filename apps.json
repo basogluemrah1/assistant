@@ -1,0 +1,27 @@
+{
+  "spotify": [
+    "Spotify.exe",
+    "C:\\Users\\%USERNAME%\\AppData\\Roaming\\Spotify\\Spotify.exe"
+  ],
+  "steam": [
+    "Steam.exe",
+    "C:\\Program Files (x86)\\Steam\\Steam.exe",
+    "C:\\Program Files\\Steam\\Steam.exe",
+    "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk"
+  ],
+  "repo": [
+    "C:\\Users\\İlayda\\Desktop\\R.E.P.O..url",
+    "R.E.P.O..url"
+  ],
+  "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "notepad": "notepad.exe",
+  "excel": "EXCEL.EXE",
+  "powerpoint": "POWERPNT.EXE",
+  "calculator": "calc.exe",
+  "paint": "mspaint.exe",
+  "explorer": "explorer.exe",
+  "word": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word 2016.lnk",
+  "spiderman": "C:\\Games\\Marvels Spider-Man Remastered\\Spider-Man.exe",
+  "notion": "C:\\Users\\Emrah\\AppData\\Local\\Programs\\Notion\\Notion.exe",
+  "vscode": "C:\\Users\\Emrah\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+}
